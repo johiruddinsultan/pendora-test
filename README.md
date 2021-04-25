@@ -1,16 +1,16 @@
-This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
+#This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
-* Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
-* CryptoNote reference implementation: [CryptoNoteCoin](https://cryptonote-coin.org)
-* Discussion board and support: [CryptoNote Forum](https://forum.cryptonote.org)
+#* Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
+#* CryptoNote reference implementation: [CryptoNoteCoin](https://cryptonote-coin.org)
+#* Discussion board and support: [CryptoNote Forum](https://forum.cryptonote.org)
 
 ## CryptoNote forking how-to
 
 ### Preparation
 
-1. Create an account on [GitHub.com](github.com)
-2. Fork [CryptoNote repository](https://github.com/cryptonotefoundation/cryptonote)
-3. Buy one or two Ubuntu-based dedicated servers (at least 2Gb of RAM) for seed nodes.
+#1. Create an account on [GitHub.com](github.com)
+#2. Fork [CryptoNote repository](https://github.com/cryptonotefoundation/cryptonote)
+#3. Buy one or two Ubuntu-based dedicated servers (at least 2Gb of RAM) for seed nodes.
 
 
 
